@@ -71,7 +71,3 @@
 		"@ro/cli-service": "workspace:^1.0.0"
 	}
 }
-
-git remote add origin https://github.com/ronan-try/ro-cli-vscode.git
-git branch -M main
-git push -u origin main
